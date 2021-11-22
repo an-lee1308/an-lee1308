@@ -30,7 +30,7 @@ const anlee1308 = {
 <!-- <a href= "https://blog.codedaokysu.com/" target="_blank"><img src="https://img.icons8.com/material-outlined/26/000000/ball-point-pen.png"/></a> -->
 <a href= "https://www.facebook.com/an.lee1308/" target="_blank"><img src="https://img.icons8.com/windows/32/000000/facebook.png"/></a>
 <a href= "https://www.linkedin.com/in/anlee1308/" target="_blank"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href= "https://www.youtube.com/c/#" target="_blank"><img src="https://img.icons8.com/material-outlined/30/000000/youtube.png"/></a>
+<a href= "https://www.youtube.com/channel/UCIKPpg8hTsY-Rnfk5s6TeWQ" target="_blank"><img src="https://img.icons8.com/material-outlined/30/000000/youtube.png"/></a>
 <a href= "https://twitter.com/anlee1308" target="_blank"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 </p>
 <p align="center">
