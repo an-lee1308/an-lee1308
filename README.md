@@ -4,7 +4,7 @@
 </em></p>
 
 [![Twitter: anlee1308](https://img.shields.io/twitter/follow/anlee1308?style=social)](https://twitter.com/anlee1308)
-[![Linkedin: anlee1308](https://img.shields.io/badge/-anlee1308-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anlee1308/)](https://www.linkedin.com/in/an-lee1308/)
+[![Linkedin: anlee1308](https://img.shields.io/badge/-anlee1308-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anlee1308/)](https://www.linkedin.com/in/anlee1308/)
 [![GitHub anlee-1308](https://img.shields.io/github/followers/an-lee1308?label=follow&style=social)](https://github.com/an-lee1308)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
