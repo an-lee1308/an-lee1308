@@ -1,4 +1,4 @@
-<h2> Hi, I'm Le An! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi there, I'm Le An! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://i.imgur.com/m5Ie4P7.gif">
 <p><em>Information Technology at <a href="https://en.uit.edu.vn/" target="_blank">University of Information Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Student at <a href="#" target="_blank">UIT</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
